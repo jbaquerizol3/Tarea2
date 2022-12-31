@@ -1,5 +1,5 @@
 Algoritmo sin_titulo
-	definir dia, mes ,año,semana,añox,x,p,a,l,m,d,h,j,v,s,r,ñ,z,kk como entero
+	definir dia, mes ,año,semana,añox,x,r como entero
 	escribir "ingrese dia"
 	leer dia
 	Escribir  "ingrese mes"
@@ -598,10 +598,4 @@ Algoritmo sin_titulo
 			FinSi
 		FinPara
 	FinSi
-	
-	
-	
-	
-	
-	
-FinAlgoritmo
+	FinAlgoritmo
